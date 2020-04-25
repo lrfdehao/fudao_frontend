@@ -7,6 +7,9 @@ fudao 平台前端代码
 - js： vue.js。
 - css： [iviewui](https://www.iviewui.com/)。
 
+爬虫项目地址: [fudao_crawler](https://github.com/lrfdehao/fudao_crawler)
+后端项目地址: [fudao_api](https://github.com/lrfdehao/fudao_api)
+
 ## 目录结构
 
 ```
